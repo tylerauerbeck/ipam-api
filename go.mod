@@ -2,7 +2,7 @@ module go.infratographer.com/ipam-api
 
 go 1.20
 
-replace github.com/testcontainers/testcontainers-go => github.com/testcontainers/testcontainers-go v0.0.0-20230503220718-0df60de8ccd8
+replace github.com/testcontainers/testcontainers-go => github.com/testcontainers/testcontainers-go v0.20.1
 
 require (
 	entgo.io/contrib v0.4.5
